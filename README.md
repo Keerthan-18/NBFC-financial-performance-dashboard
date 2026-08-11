@@ -60,7 +60,8 @@ Power BI Desktop (Power Query, DAX) · Microsoft Excel (SUMIFS, financial modeli
 - Bajaj Finance Ltd. — Annual Report 2024-25 (Standalone Financial Statements)
 - Manappuram Finance Ltd. — Annual Report 2024-25 (Standalone Financial Statements)
 
-- ⚠️ Analytical Note
+
+⚠️ Analytical Note
 
 -Financial ratios should be interpreted in the context of each company's business model, lending mix, capital structure and asset-quality profile.
 -Therefore, differences between the companies should not be interpreted solely as a ranking of overall financial strength.
